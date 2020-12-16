@@ -9,7 +9,7 @@
 <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
 <vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
-<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpostoptimizedpod&url=https://mail.google.com/&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=15000&vad_type=linear&vpos=midroll&pod=2&mridx=1&rmridx=1&pmnd=0&pmxd=30000&pmad=-1&vrid=6616&video_doc_id=short_onecue&cmsid=496&kfa=0&tfcd=0 ]]>
+<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?iu=/1022441/video_test_ad&description_url=http%3A%2F%2Fwww.way2news.com&tfcd=0&npa=0&sz=400x300%7C640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
 </vmap:AdBreak>
